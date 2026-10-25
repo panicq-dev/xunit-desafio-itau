@@ -101,6 +101,7 @@
 /home/gabriel/RiderProjects/xUnitDesafioItau/xUnitDesafioItau/bin/Debug/net10.0/DesafioItau.api.pdb
 /home/gabriel/RiderProjects/xUnitDesafioItau/xUnitDesafioItau/obj/Debug/net10.0/xUnitDesafioItau.csproj.AssemblyReference.cache
 /home/gabriel/RiderProjects/xUnitDesafioItau/xUnitDesafioItau/obj/Debug/net10.0/xUnitDesafioItau.csproj.CoreCompileInputs.cache
+/home/gabriel/RiderProjects/xUnitDesafioItau/xUnitDesafioItau/obj/Debug/net10.0/xUnitDesafioItau.sourcelink.json
 /home/gabriel/RiderProjects/xUnitDesafioItau/xUnitDesafioItau/obj/Debug/net10.0/xUnitDesafioItau.dll
 /home/gabriel/RiderProjects/xUnitDesafioItau/xUnitDesafioItau/obj/Debug/net10.0/refint/xUnitDesafioItau.dll
 /home/gabriel/RiderProjects/xUnitDesafioItau/xUnitDesafioItau/obj/Debug/net10.0/xUnitDesafioItau.pdb
